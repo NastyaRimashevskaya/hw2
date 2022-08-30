@@ -1,0 +1,10 @@
+.wrap {
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+}
+
+.header {
+    font-size: 40;
+    color:red;
+}
